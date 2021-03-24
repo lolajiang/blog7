@@ -1,7 +1,7 @@
 # Site settings
 title: François Nicholas # site title
 description: >- # site description
-  Senior Engineering Manager at PlayStation. He is an aspiring Stakeholder & Venture Capitalist, & also interested in joining a board. 
+  Engineer, Technologist, Investor
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,10 +12,10 @@ mode: light # default theme "dark" | "light"
 author:
   name: François Nicholas # author name
   bio: >- # tell to the world
-    Senior Engineering Manager at PlayStation. He is an aspiring Stakeholder & Venture Capitalist, & also interested in joining a board. 
+    Engineer, Technologist, Investor
   username: francoisnicholas # general username
   github: francoisnicholas # github username
-  email: your-email@email.com # email adress
+  email: francois@francoisnicholas.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings

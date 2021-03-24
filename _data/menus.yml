@@ -6,8 +6,8 @@
   url: /archive/
   external: false
 
-- title: About
-  url: /about/
+- title: Bio
+  url: /bio/
   external: false # set true if you using external link, see below
 
 # Example:
