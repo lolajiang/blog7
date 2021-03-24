@@ -1,7 +1,8 @@
 <footer class="footer">
-  <a class="footer_item" href="{{ site.baseurl }}/thanks">ack.</a>
-  <a class="footer_item" href="https://www.linkedin.com/in/francoisnicholas/">resume</a>
-  <a class="footer_item" href="{{ site.baseurl }}/feed.xml">rss</a>
+  <a class="footer_item" href="{{ site.baseurl }}/thanks">Ack.</a>
+  <a class="footer_item" href="mailto: {{ site.author.email }}">Email</a>
+  <a class="footer_item" href="https://www.linkedin.com/in/francoisnicholas/">Resume</a>
+  <a class="footer_item" href="{{ site.baseurl }}/feed.xml">RSS</a>
   <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
 </footer>
 <script src="{{ site.baseurl }}/assets/js/main.js" defer="defer"></script>
@@ -14,12 +15,12 @@
   </script>
 {%- endif -%}
 {%- if page.url == '/archive/' -%}
-  <script src="/assets/js/search.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/search.min.js"></script>
   <script>
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('search-results'),
-      json: '/assets/search.json',
+      json: '{{ site.baseurl }}/assets/search.json',
     });
   </script>
 {%- endif -%}

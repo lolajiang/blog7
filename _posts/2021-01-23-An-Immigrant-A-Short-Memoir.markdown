@@ -2,7 +2,7 @@
 layout: post
 title:  "An Immigrant: A Short Memoir"
 date:   2021-01-23 19:56:20 -0700
-categories: 
+tags: [life]
 ---
 
 ## Part I: “Life can only be understood backwards, but it must be lived forwards.”―Soren Kirkegaard

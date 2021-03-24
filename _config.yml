@@ -12,15 +12,15 @@ mode: light # default theme "dark" | "light"
 author:
   name: François Nicholas # author name
   bio: >- # tell to the world
-    François joins PlayStation™ in 2020 as a Senior Engineering Manager, where he leads & manages the Data Platform Reliability Engineering Teams ―Cloud Data & Model Operations Engineering Teams within the Cloud Engineering & Operations organization.
+    Senior Engineering Manager at PlayStation. He is an aspiring Stakeholder & Venture Capitalist, & also interested in joining a board. 
   username: francoisnicholas # general username
   github: francoisnicholas # github username
   email: your-email@email.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://lolajiang.com/blog5"  #
-baseurl:  #
+url: "https://lolajiang.com"  #
+baseurl: /blog5 #
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
