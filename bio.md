@@ -23,4 +23,4 @@ He is a forthright individual who doesn't deal well with bullshit, incompetence,
 He is an aspiring Stakeholder & Venture Capitalist, & also interested in joining a board. 
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- linkedin.com/in/{{ site.author.github }}
