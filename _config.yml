@@ -5,7 +5,7 @@ description: >- # site description
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/lolajiang/blog5 # site repo [optional]
+repo: https://github.com/lolajiang/blog7 # site repo [optional]
 mode: light # default theme "dark" | "light"
 
 # Profile settings
@@ -20,7 +20,7 @@ author:
 
 # URL settings
 url: "https://lolajiang.com"  #
-baseurl: /blog5 #
+baseurl: /blog7 #
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:

@@ -1,6 +1,6 @@
 // Fonts preferences
-$sans-family: Roboto, sans-serif;
-$mono-family: Consolas, monospace;
+$sans-family: "Trebuchet MS", Roboto, sans-serif;
+$mono-family: "Courier New",Consolas, monospace;
 $base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
@@ -13,11 +13,11 @@ $bold-weight: 700;
 // $black-weight: 900; // uncomment if necessary
 
 //Light Colors
-$text-base-color: #434648;
+$text-base-color: #000000;
 $text-link-blue: #003fff;
 $text-link-blue-active: #0036c7;
 
-$black: #0d122b;
+$black: #000000;
 $light: #ececec;
 $smoke: #d2c7c7;
 $gray: #6b7886;
